@@ -103,7 +103,7 @@
             </div>
             <div class="sutun">
                 <img src="img/Kız resmi.jpg" alt="" class="img-fluid oval asd">
-                <h4 class="ekipisim">Aslı KAYA</h4>
+                <h4 class="ekipisim">Aslı KAYAHAN</h4>
             <p class="ekipp">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cum, similique!</p>
             <div class="ekip-ikon">
                 <a href="#"><i class="fa-brands fa-facebook social"></i></a>
