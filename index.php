@@ -113,7 +113,7 @@
             </div>
             <div class="sutun-sol-sag">
                 <img src="img/hakannnn.webp" alt="" class="img-fluid oval ins">
-                <h4 class="ekipisim">Ali Demir</h4>
+                <h4 class="ekipisim">Ali KARA</h4>
             <p class="ekipp">Lorem Ipsum qwehıqwljeqwe !</p>
             <div class="ekip-ikon">
                 <a href="#"><i class="fa-brands fa-facebook social"></i></a>
